@@ -1,1 +1,842 @@
-
+[
+ {
+   "epponame": "אבוטילון ",
+   "fullname": "אבוטילון "
+ },
+ {
+   "epponame": "אבוקדו ",
+   "fullname": "אבוקדו "
+ },
+ {
+   "epponame": "אבטיח ",
+   "fullname": "אבטיח "
+ },
+ {
+   "epponame": "אגוז אדמה ",
+   "fullname": "אגוז אדמה "
+ },
+ {
+   "epponame": "אגס ",
+   "fullname": "אגס "
+ },
+ {
+   "epponame": "אגרטום ",
+   "fullname": "אגרטום "
+ },
+ {
+   "epponame": "אדניום ",
+   "fullname": "אדניום "
+ },
+ {
+   "epponame": "אור",
+   "fullname": "אור"
+ },
+ {
+   "epponame": "אורגנו ",
+   "fullname": "אורגנו "
+ },
+ {
+   "epponame": "אורז ",
+   "fullname": "אורז "
+ },
+ {
+   "epponame": "אורן ",
+   "fullname": "אורן "
+ },
+ {
+   "epponame": "אזוב מצוי (ראה גם זעתר)",
+   "fullname": "אזוב מצוי (ראה גם זעתר)"
+ },
+ {
+   "epponame": "איריס ",
+   "fullname": "איריס "
+ },
+ {
+   "epponame": "אכילאה ",
+   "fullname": "אכילאה "
+ },
+ {
+   "epponame": "אלה ",
+   "fullname": "אלה "
+ },
+ {
+   "epponame": "אלה אטלנטית ",
+   "fullname": "אלה אטלנטית "
+ },
+ {
+   "epponame": "אלון ",
+   "fullname": "אלון "
+ },
+ {
+   "epponame": "אלמון הודי",
+   "fullname": "אלמון הודי"
+ },
+ {
+   "epponame": "אנונה ",
+   "fullname": "אנונה "
+ },
+ {
+   "epponame": "אספסת ",
+   "fullname": "אספסת "
+ },
+ {
+   "epponame": "אספרג ",
+   "fullname": "אספרג "
+ },
+ {
+   "epponame": "אסקלפיאס ",
+   "fullname": "אסקלפיאס "
+ },
+ {
+   "epponame": "אסתר ",
+   "fullname": "אסתר "
+ },
+ {
+   "epponame": "אפון ",
+   "fullname": "אפון "
+ },
+ {
+   "epponame": "אפונת שלג",
+   "fullname": "אפונת שלג"
+ },
+ {
+   "epponame": "אפרסמון ",
+   "fullname": "אפרסמון "
+ },
+ {
+   "epponame": "אפרסק ",
+   "fullname": "אפרסק "
+ },
+ {
+   "epponame": "אקוניטום",
+   "fullname": "אקוניטום"
+ },
+ {
+   "epponame": "ארליה ",
+   "fullname": "ארליה "
+ },
+ {
+   "epponame": "אשכולית ",
+   "fullname": "אשכולית "
+ },
+ {
+   "epponame": "בגוניה ",
+   "fullname": "בגוניה "
+ },
+ {
+   "epponame": "בוגונוילאה ",
+   "fullname": "בוגונוילאה "
+ },
+ {
+   "epponame": "בוהייניה ",
+   "fullname": "בוהייניה "
+ },
+ {
+   "epponame": "בטטה ",
+   "fullname": "בטטה "
+ },
+ {
+   "epponame": "בננה ",
+   "fullname": "בננה "
+ },
+ {
+   "epponame": "בצל ",
+   "fullname": "בצל "
+ },
+ {
+   "epponame": "בצל ירוק",
+   "fullname": "בצל ירוק"
+ },
+ {
+   "epponame": "בצלים ",
+   "fullname": "בצלים "
+ },
+ {
+   "epponame": "בקיה ",
+   "fullname": "בקיה "
+ },
+ {
+   "epponame": "ברבטוס ",
+   "fullname": "ברבטוס "
+ },
+ {
+   "epponame": "ברוקולי ",
+   "fullname": "ברוקולי "
+ },
+ {
+   "epponame": "בשמת ",
+   "fullname": "בשמת "
+ },
+ {
+   "epponame": "גדולי שדה ",
+   "fullname": "גדולי שדה "
+ },
+ {
+   "epponame": "גודגדן ",
+   "fullname": "גודגדן "
+ },
+ {
+   "epponame": "גודטיה ",
+   "fullname": "גודטיה "
+ },
+ {
+   "epponame": "גויאבה ",
+   "fullname": "גויאבה "
+ },
+ {
+   "epponame": "גזר ",
+   "fullname": "גזר "
+ },
+ {
+   "epponame": "גיפסנית ",
+   "fullname": "גיפסנית "
+ },
+ {
+   "epponame": "גלובולריה",
+   "fullname": "גלובולריה"
+ },
+ {
+   "epponame": "גלוקסיניה ",
+   "fullname": "גלוקסיניה "
+ },
+ {
+   "epponame": "גן נוי ",
+   "fullname": "גן נוי "
+ },
+ {
+   "epponame": "גפן ",
+   "fullname": "גפן "
+ },
+ {
+   "epponame": "גרברה ",
+   "fullname": "גרברה "
+ },
+ {
+   "epponame": "גרדניה ",
+   "fullname": "גרדניה "
+ },
+ {
+   "epponame": "גרוילאה ",
+   "fullname": "גרוילאה "
+ },
+ {
+   "epponame": "גרניום ",
+   "fullname": "גרניום "
+ },
+ {
+   "epponame": "גרעינים ",
+   "fullname": "גרעינים "
+ },
+ {
+   "epponame": "גרעינים, איחסון ",
+   "fullname": "גרעינים, איחסון "
+ },
+ {
+   "epponame": "דגני חורף ",
+   "fullname": "דגני חורף "
+ },
+ {
+   "epponame": "דגנית ",
+   "fullname": "דגנית "
+ },
+ {
+   "epponame": "דובדבן ",
+   "fullname": "דובדבן "
+ },
+ {
+   "epponame": "דלועיים ",
+   "fullname": "דלועיים "
+ },
+ {
+   "epponame": "דלורית ",
+   "fullname": "דלורית "
+ },
+ {
+   "epponame": "דליה ",
+   "fullname": "דליה "
+ },
+ {
+   "epponame": "דלעת ",
+   "fullname": "דלעת "
+ },
+ {
+   "epponame": "דלפיניום ",
+   "fullname": "דלפיניום "
+ },
+ {
+   "epponame": "דקל קנרי",
+   "fullname": "דקל קנרי"
+ },
+ {
+   "epponame": "דשא ",
+   "fullname": "דשא "
+ },
+ {
+   "epponame": "זוטה לבנה",
+   "fullname": "זוטה לבנה"
+ },
+ {
+   "epponame": "זית ",
+   "fullname": "זית "
+ },
+ {
+   "epponame": "זעתר (ראה גם אזוב מצוי)",
+   "fullname": "זעתר (ראה גם אזוב מצוי)"
+ },
+ {
+   "epponame": "זרעים איחסון ",
+   "fullname": "זרעים איחסון "
+ },
+ {
+   "epponame": "זרעים חיטוי ",
+   "fullname": "זרעים חיטוי "
+ },
+ {
+   "epponame": "חבוש",
+   "fullname": "חבוש"
+ },
+ {
+   "epponame": "חומעה",
+   "fullname": "חומעה"
+ },
+ {
+   "epponame": "חיטה ",
+   "fullname": "חיטה "
+ },
+ {
+   "epponame": "חימצה ",
+   "fullname": "חימצה "
+ },
+ {
+   "epponame": "חיננית רב שנתית (בת חן)",
+   "fullname": "חיננית רב שנתית (בת חן)"
+ },
+ {
+   "epponame": "חלבלוב הדור ",
+   "fullname": "חלבלוב הדור "
+ },
+ {
+   "epponame": "חמנית ",
+   "fullname": "חמנית "
+ },
+ {
+   "epponame": "חסה ",
+   "fullname": "חסה "
+ },
+ {
+   "epponame": "חציל ",
+   "fullname": "חציל "
+ },
+ {
+   "epponame": "חרצית ",
+   "fullname": "חרצית "
+ },
+ {
+   "epponame": "טבק ",
+   "fullname": "טבק "
+ },
+ {
+   "epponame": "טגטיס ",
+   "fullname": "טגטיס "
+ },
+ {
+   "epponame": "טופז ",
+   "fullname": "טופז "
+ },
+ {
+   "epponame": "טופח ריחני ",
+   "fullname": "טופח ריחני "
+ },
+ {
+   "epponame": "טרגון ",
+   "fullname": "טרגון "
+ },
+ {
+   "epponame": "טרכליום ",
+   "fullname": "טרכליום "
+ },
+ {
+   "epponame": "ירקות ",
+   "fullname": "ירקות "
+ },
+ {
+   "epponame": "כוסברה",
+   "fullname": "כוסברה"
+ },
+ {
+   "epponame": "כותנה ",
+   "fullname": "כותנה "
+ },
+ {
+   "epponame": "כותנה למספוא ",
+   "fullname": "כותנה למספוא "
+ },
+ {
+   "epponame": "כלנית ",
+   "fullname": "כלנית "
+ },
+ {
+   "epponame": "כף הקנגורו ",
+   "fullname": "כף הקנגורו "
+ },
+ {
+   "epponame": "כרוב ",
+   "fullname": "כרוב "
+ },
+ {
+   "epponame": "כרוב סיני ",
+   "fullname": "כרוב סיני "
+ },
+ {
+   "epponame": "כרוביים ",
+   "fullname": "כרוביים "
+ },
+ {
+   "epponame": "כרובית ",
+   "fullname": "כרובית "
+ },
+ {
+   "epponame": "כרישה",
+   "fullname": "כרישה"
+ },
+ {
+   "epponame": "כרפס (שורש ועלים)",
+   "fullname": "כרפס (שורש ועלים)"
+ },
+ {
+   "epponame": "כרפס עלים ",
+   "fullname": "כרפס עלים "
+ },
+ {
+   "epponame": "לואיזה ",
+   "fullname": "לואיזה "
+ },
+ {
+   "epponame": "לובג'",
+   "fullname": "לובג'"
+ },
+ {
+   "epponame": "ליאטריס ",
+   "fullname": "ליאטריס "
+ },
+ {
+   "epponame": "ליזנטוס ",
+   "fullname": "ליזנטוס "
+ },
+ {
+   "epponame": "לימון ",
+   "fullname": "לימון "
+ },
+ {
+   "epponame": "לימוניום ",
+   "fullname": "לימוניום "
+ },
+ {
+   "epponame": "ליצי ",
+   "fullname": "ליצי "
+ },
+ {
+   "epponame": "לנטנה ",
+   "fullname": "לנטנה "
+ },
+ {
+   "epponame": "לע הארי ",
+   "fullname": "לע הארי "
+ },
+ {
+   "epponame": "לפטוספרמון",
+   "fullname": "לפטוספרמון"
+ },
+ {
+   "epponame": "לפת ",
+   "fullname": "לפת "
+ },
+ {
+   "epponame": "מלוכיה ",
+   "fullname": "מלוכיה "
+ },
+ {
+   "epponame": "מלון ",
+   "fullname": "מלון "
+ },
+ {
+   "epponame": "מליסה ",
+   "fullname": "מליסה "
+ },
+ {
+   "epponame": "מלפפון ",
+   "fullname": "מלפפון "
+ },
+ {
+   "epponame": "מנגו ",
+   "fullname": "מנגו "
+ },
+ {
+   "epponame": "מנגולד",
+   "fullname": "מנגולד"
+ },
+ {
+   "epponame": "מנדבילה",
+   "fullname": "מנדבילה"
+ },
+ {
+   "epponame": "מנטה",
+   "fullname": "מנטה"
+ },
+ {
+   "epponame": "מנתור ",
+   "fullname": "מנתור "
+ },
+ {
+   "epponame": "מצע מנותק ",
+   "fullname": "מצע מנותק "
+ },
+ {
+   "epponame": "נקטרינה ",
+   "fullname": "נקטרינה "
+ },
+ {
+   "epponame": "סובטרופיים ",
+   "fullname": "סובטרופיים "
+ },
+ {
+   "epponame": "סולידגו ",
+   "fullname": "סולידגו "
+ },
+ {
+   "epponame": "סולידסטר ",
+   "fullname": "סולידסטר "
+ },
+ {
+   "epponame": "סטיביה",
+   "fullname": "סטיביה"
+ },
+ {
+   "epponame": "סיגלית ",
+   "fullname": "סיגלית "
+ },
+ {
+   "epponame": "סיפן ",
+   "fullname": "סיפן "
+ },
+ {
+   "epponame": "סלק אדום ",
+   "fullname": "סלק אדום "
+ },
+ {
+   "epponame": "סלק מספוא ",
+   "fullname": "סלק מספוא "
+ },
+ {
+   "epponame": "סלק מצוי ",
+   "fullname": "סלק מצוי "
+ },
+ {
+   "epponame": "סלק עלים",
+   "fullname": "סלק עלים"
+ },
+ {
+   "epponame": "עגבניה ",
+   "fullname": "עגבניה "
+ },
+ {
+   "epponame": "עדעד ",
+   "fullname": "עדעד "
+ },
+ {
+   "epponame": "עופרים (שחליים עדינים)",
+   "fullname": "עופרים (שחליים עדינים)"
+ },
+ {
+   "epponame": "עירית ",
+   "fullname": "עירית "
+ },
+ {
+   "epponame": "עלי בוק צ'וי",
+   "fullname": "עלי בוק צ'וי"
+ },
+ {
+   "epponame": "עלי טטסוי",
+   "fullname": "עלי טטסוי"
+ },
+ {
+   "epponame": "ענבים ",
+   "fullname": "ענבים "
+ },
+ {
+   "epponame": "עץ ",
+   "fullname": "עץ "
+ },
+ {
+   "epponame": "עצבונית ",
+   "fullname": "עצבונית "
+ },
+ {
+   "epponame": "עצי פרי גלעיניים ",
+   "fullname": "עצי פרי גלעיניים "
+ },
+ {
+   "epponame": "עצי פרי גרעיניים ",
+   "fullname": "עצי פרי גרעיניים "
+ },
+ {
+   "epponame": "עצי פרי נשירים ",
+   "fullname": "עצי פרי נשירים "
+ },
+ {
+   "epponame": "עשב לימון",
+   "fullname": "עשב לימון"
+ },
+ {
+   "epponame": "עשב רודס ",
+   "fullname": "עשב רודס "
+ },
+ {
+   "epponame": "צבעוני ",
+   "fullname": "צבעוני "
+ },
+ {
+   "epponame": "צבר",
+   "fullname": "צבר"
+ },
+ {
+   "epponame": "צינרריה",
+   "fullname": "צינרריה"
+ },
+ {
+   "epponame": "ציפורן ",
+   "fullname": "ציפורן "
+ },
+ {
+   "epponame": "ציפורן חתול ",
+   "fullname": "ציפורן חתול "
+ },
+ {
+   "epponame": "ציפורן סיני ",
+   "fullname": "ציפורן סיני "
+ },
+ {
+   "epponame": "צלוזיה",
+   "fullname": "צלוזיה"
+ },
+ {
+   "epponame": "צמחי מספוא ",
+   "fullname": "צמחי מספוא "
+ },
+ {
+   "epponame": "צמחי נוי ",
+   "fullname": "צמחי נוי "
+ },
+ {
+   "epponame": "צמחי עציץ ",
+   "fullname": "צמחי עציץ "
+ },
+ {
+   "epponame": "צמחי תבלין ",
+   "fullname": "צמחי תבלין "
+ },
+ {
+   "epponame": "צמחי תעשיה ",
+   "fullname": "צמחי תעשיה "
+ },
+ {
+   "epponame": "צנון ",
+   "fullname": "צנון "
+ },
+ {
+   "epponame": "צנונית ",
+   "fullname": "צנונית "
+ },
+ {
+   "epponame": "צסטרום",
+   "fullname": "צסטרום"
+ },
+ {
+   "epponame": "צ'רביל",
+   "fullname": "צ'רביל"
+ },
+ {
+   "epponame": "קוכיה ",
+   "fullname": "קוכיה "
+ },
+ {
+   "epponame": "קולאוס",
+   "fullname": "קולאוס"
+ },
+ {
+   "epponame": "קולרבי ",
+   "fullname": "קולרבי "
+ },
+ {
+   "epponame": "קומקואט ",
+   "fullname": "קומקואט "
+ },
+ {
+   "epponame": "קורנית ",
+   "fullname": "קורנית "
+ },
+ {
+   "epponame": "קטניות ",
+   "fullname": "קטניות "
+ },
+ {
+   "epponame": "קיוי ",
+   "fullname": "קיוי "
+ },
+ {
+   "epponame": "קינרס (ארטישוק)",
+   "fullname": "קינרס (ארטישוק)"
+ },
+ {
+   "epponame": "קיפודן מצוי",
+   "fullname": "קיפודן מצוי"
+ },
+ {
+   "epponame": "קישוא ",
+   "fullname": "קישוא "
+ },
+ {
+   "epponame": "קלה ",
+   "fullname": "קלה "
+ },
+ {
+   "epponame": "קליפים ",
+   "fullname": "קליפים "
+ },
+ {
+   "epponame": "קלמנטינה ",
+   "fullname": "קלמנטינה "
+ },
+ {
+   "epponame": "רימון ",
+   "fullname": "רימון "
+ },
+ {
+   "epponame": "שבולת שועל ",
+   "fullname": "שבולת שועל "
+ },
+ {
+   "epponame": "שום ",
+   "fullname": "שום "
+ },
+ {
+   "epponame": "שומר ",
+   "fullname": "שומר "
+ },
+ {
+   "epponame": "שונות ",
+   "fullname": "שונות "
+ },
+ {
+   "epponame": "שושן ",
+   "fullname": "שושן "
+ },
+ {
+   "epponame": "שושן הפסחא ",
+   "fullname": "שושן הפסחא "
+ },
+ {
+   "epponame": "שושן צחור ",
+   "fullname": "שושן צחור "
+ },
+ {
+   "epponame": "שזיף ",
+   "fullname": "שזיף "
+ },
+ {
+   "epponame": "שזיף אירופי ",
+   "fullname": "שזיף אירופי "
+ },
+ {
+   "epponame": "שזיף יפני ",
+   "fullname": "שזיף יפני "
+ },
+ {
+   "epponame": "שטחי בור ",
+   "fullname": "שטחי בור "
+ },
+ {
+   "epponame": "שמוטי ",
+   "fullname": "שמוטי "
+ },
+ {
+   "epponame": "שמיר ",
+   "fullname": "שמיר "
+ },
+ {
+   "epponame": "שסק ",
+   "fullname": "שסק "
+ },
+ {
+   "epponame": "שעועית יבשה",
+   "fullname": "שעועית יבשה"
+ },
+ {
+   "epponame": "שעועית ירוקה",
+   "fullname": "שעועית ירוקה"
+ },
+ {
+   "epponame": "שעורה ",
+   "fullname": "שעורה "
+ },
+ {
+   "epponame": "שקד ",
+   "fullname": "שקד "
+ },
+ {
+   "epponame": "שרך ",
+   "fullname": "שרך "
+ },
+ {
+   "epponame": "תאנה ",
+   "fullname": "תאנה "
+ },
+ {
+   "epponame": "תבלינים ",
+   "fullname": "תבלינים "
+ },
+ {
+   "epponame": "תות שדה לפרי ",
+   "fullname": "תות שדה לפרי "
+ },
+ {
+   "epponame": "תות שדה משתלות ",
+   "fullname": "תות שדה משתלות "
+ },
+ {
+   "epponame": "תירס ",
+   "fullname": "תירס "
+ },
+ {
+   "epponame": "תירס אשבולים ",
+   "fullname": "תירס אשבולים "
+ },
+ {
+   "epponame": "תירס מספוא ",
+   "fullname": "תירס מספוא "
+ },
+ {
+   "epponame": "תירס מתוק ",
+   "fullname": "תירס מתוק "
+ },
+ {
+   "epponame": "תלתן ",
+   "fullname": "תלתן "
+ },
+ {
+   "epponame": "תמר ",
+   "fullname": "תמר "
+ },
+ {
+   "epponame": "תפוח ",
+   "fullname": "תפוח "
+ },
+ {
+   "epponame": "תפוח אדמה ",
+   "fullname": "תפוח אדמה "
+ },
+ {
+   "epponame": "תרד ",
+   "fullname": "תרד "
+ }
+]
